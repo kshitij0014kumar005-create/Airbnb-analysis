@@ -129,6 +129,10 @@ Airbnb-Data-Analytics/
 
 ---
 
+## Dashboard preview
+![dashboard Preview](Airbib analysis Dashboard.jpeg)
+
+---
 ## Author
 
 **Kshitij Kumar**
