@@ -130,7 +130,7 @@ Airbnb-Data-Analytics/
 ---
 
 ## Dashboard preview
-[![dashboard Preview](Airbib analysis Dashboard.jpeg)]
+[![Dashboard Preview](Airbnb analysis Dashboard.jpeg)]
 
 ---
 ## Author
